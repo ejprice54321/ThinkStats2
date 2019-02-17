@@ -1,6 +1,6 @@
-# Examining the Opioid Crisis
-
 ### Emma Price
+
+# Examining the Opioid Crisis
 
 Using data from the National Survey on Drug Use and Health (NSDUH), I want to examine the trends, causes, correlations, other interested data trends specifically relating to opioid abuse and the opioid crisis. I hope to investigate the causes of the opioid epidemic and look into trends in the groups affected.
 
